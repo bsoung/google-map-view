@@ -1,0 +1,4 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.1'
+pod 'GoogleMaps'
+xcodeproj '/Users/adityanarayan/Desktop/_Ray Sabbineni/googlemap2/googlemap2.xcodeproj'
